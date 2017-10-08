@@ -1,9 +1,13 @@
-## Minesweeper-codecademy
+# Minesweeper-codecademy
 codecademy project 
-
+________________________
+ step to install.
+ 
+ 1. git clone.
+ 2. npm install. 
 _________________________
 
-# How to play it.
+## How to play it.
 
  To play Minesweeper, we will create instances of MineSweeperGame in command line.
 For example:
