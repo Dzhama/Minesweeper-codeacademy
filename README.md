@@ -1,2 +1,4 @@
-# Minesweeper-codeacademy
-codeacademy project 
+# Minesweeper-codecademy
+codecademy project 
+
+_________________________
